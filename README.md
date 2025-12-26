@@ -8,14 +8,6 @@
 - YAML file parsing support
 - Simple and extensible loader architecture
 
-## Installation
-
-Use [JSR](https://jsr.sh) or import directly from your repository.
-
-```javascript
-import { load } from "jsr:@justbyitself/modulia"
-```
-
 ## Usage
 
 Use `load` to dynamically import a module by its absolute path. The module must export a default value that is either:
