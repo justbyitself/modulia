@@ -5,7 +5,7 @@
 ## Features
 
 - Dynamic loading of JS modules with context passing
-- YAML file parsing support
+- YAML and JSON file parsing support
 - Simple and extensible loader architecture
 
 ## Usage
@@ -54,4 +54,4 @@ deno task test
 ```
 
 ## TODO
-  - More formats support (json, jsonc, hjson, toml...)
+  - More formats support (jsonc, hjson, toml...)
